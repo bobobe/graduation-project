@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Thu Sep 24 14:34:41 CST 2009
+onejar.license.required=false
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=D\:\\project\\p2pchat\\p2pchat.jar
+manifest.mergeall=true
+manifest.mainclass=p2p.chat.Main
+manifest.file=<createnew>
+jarname.isextern=true
+onejar.expand=
+excludes=
+includes=
